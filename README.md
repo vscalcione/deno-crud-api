@@ -7,7 +7,7 @@ For run and test this APIs, type this command in your shell:
 ```
 For semplicity, I create a simple script that execute the command for run in dev mode this APIs.
 
-This script (<b>startup.sh</b>) show a simple menu with the user can choose if run 1st script (<b> api.ts </b>) or 2nd script (<b> app.ts </b>)
+This script (<b>startup.sh</b>) show a simple menu with the user can choose if run 1st script (<b>api.ts</b>) or 2nd script (<b>app.ts</b>)
 
 ## Testing API
 
