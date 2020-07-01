@@ -1,12 +1,15 @@
 ## deno-crud-api
 
 Classical CRUD API implemented in deno.
-For run and test this API, type this command in your shell:
+For run and test this APIs, type this command in your shell:
 ```bash
-deno run --allow-read --allow-net api.ts
+./startup.sh
 ```
+For semplicity, I create a simple script that execute the command for run in dev mode this APIs.
 
-For semplicity, I create a simple script that execute this command
+This script (startup.sh) show a simple menu with the user can choose if you run 1st script (api.ts) or 2nd script (app.ts)
 
 ## Testing API
+
+Open Postman and do a GET HTTP call to "http://localhost:5000/clients" for a list of all clients
 
