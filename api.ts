@@ -37,9 +37,9 @@ const removeUser = (context: any) => {
 };
 
 const app = new Application();
-app.get('/clients', getUsers)
-	.get('clients/:id', getUser)
-	.post('/clients', addUser)
-	.delete('/clients/:id', removeUser)
+app.get('/users', getUsers)
+	.get('users/:id', getUser)
+	.post('/users', addUser)
+	.delete('/users/:id', removeUser)
 	.start({ port: 5000 });
 
