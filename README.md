@@ -1,5 +1,7 @@
 ## deno-crud-api
 
+![deno-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png)
+
 Classical CRUD API implemented in deno.
 For run and test this APIs, type this command in your shell:
 ```bash
@@ -27,5 +29,5 @@ Open Postman and test all HTTP calls of this APIs
   <li> <b> GET - </b> http://localhost:4000/users/:id (<b>Details of a single user identified by ID</b>) </li>
   <li> <b> POST - </b> http://localhost:4000/users (<b>Add user</b>) </li>
   <li> <b> PUT - </b> http://localhost:4000/users/:id (<b>Update user identified by ID</b>) </li>
-  <li> <b> DELETE - </b> http://localhost:4000/:id (<b>Remove user identified by ID</b>) </li>
+  <li> <b> DELETE - </b> http://localhost:4000/users/:id (<b>Remove user identified by ID</b>) </li>
 </ul>
