@@ -1,7 +1,5 @@
 ## deno-crud-api
 
-![deno-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png)
-
 Classical CRUD API implemented in deno.
 For run and test this APIs, type this command in your shell:
 ```bash
