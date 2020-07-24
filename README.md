@@ -27,5 +27,5 @@ Open Postman and test all HTTP calls of this APIs
   <li> <b> GET - </b> http://localhost:4000/users/:id (<b>Details of a single user identified by ID</b>) </li>
   <li> <b> POST - </b> http://localhost:4000/users (<b>Add user</b>) </li>
   <li> <b> PUT - </b> http://localhost:4000/users/:id (<b>Update user identified by ID</b>) </li>
-  <li> <b> DELETE - </b> http://localhost:4000/:id (<b>Remove user identified by ID</b>) </li>
+  <li> <b> DELETE - </b> http://localhost:4000/users/:id (<b>Remove user identified by ID</b>) </li>
 </ul>
